@@ -1,0 +1,45 @@
+.container {
+  max-width: 1920px;
+  max-width: 100%;
+  margin: 0 auto;
+  border: 3px solid red;
+}
+
+/* header */
+header {
+  max-width: inherit;
+  width: inherit;
+  transform: translateX(-50%, -50%);
+  background-color: #262626;
+  padding: 46px 327px 47.43px 320px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.active {
+  color: #DCB47A;
+}
+
+ul {
+  display: flex;
+  gap: 68px;
+}
+
+ul li a {
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: white;
+}
+
+.fa-bag-shopping {
+  color: white;
+  height: 36.57143020629883px;
+  font-size: 32px;  
+
+
+}
