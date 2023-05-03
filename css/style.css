@@ -141,3 +141,77 @@ ul li a {
   border-radius: 50%;
 
 }
+
+/* section  2 */
+.section2 {
+  width: 70%;
+  /* border: 2px solid red; */
+  margin: 245px auto;
+}
+
+.section2_heading {
+  color: #081323;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 75px;
+  line-height: 88px;
+  margin-bottom: 81px;
+}
+
+
+.div_cards_box {
+  width: 1280px;
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-between;
+  
+
+}
+
+.div_cards {
+  width: 31%;
+  padding: 30px 41px;
+  background-color: #F5F5F5;
+  border: 2px solid #DCB47A;
+}
+
+.card_photos {
+  width: 100%;
+  height: 225px;
+  margin-bottom: 54px;
+}
+
+.cards_title {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: -0.05em;
+  margin-bottom: 17px;
+}
+
+.cards_price {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: -0.05em;
+}
+
+.div_icon_shopping {
+  height: 20px;
+  /* border: 2px solid green; */
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 17px;
+}
+
+.shopping_icon {
+  width: 19px;
+  height: 19px;
+}
+
+
